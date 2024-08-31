@@ -10,8 +10,8 @@ from googletrans import Translator
 import random
 
 # Facebook API erişim jetonunuzu buraya girin
-ACCESS_TOKEN = 'your_access_token'
-PAGE_ID = 'your_page_id'
+ACCESS_TOKEN = 'EAAPC5vAORhQBOxbYrr5n2syFpfXU7FflaBHCuxZCn7wYrsy8WOZCaZBPUCV9NPZBJzEyV3WxZCW9iFUWfx01a9wH9HB7enoZAGrPEBg0ZCIHZBDZBKZA6ea7fF6e5qbt6XPqBUMNSD9d7m5UoD9KB7m5JTCNuyJT8LccOeklPjlKaWybwFWK61QlVHqfryykoz2WKb12C1xui9vemzqh047wZCreJXGw3yZBL22prQZDZD'
+PAGE_ID = '44444444'
 
 # Kitap sözlerini internetten çekme
 def fetch_quotes():
