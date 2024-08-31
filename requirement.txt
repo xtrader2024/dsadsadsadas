@@ -1,5 +1,4 @@
 streamlit
-facebook-sdk
 schedule
 requests
 beautifulsoup4
