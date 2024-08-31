@@ -1,5 +1,5 @@
 import streamlit as st
-import facebook-sdk
+import facebook
 import schedule
 import time
 import threading
